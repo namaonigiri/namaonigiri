@@ -18,6 +18,8 @@
 #### Keywords:
 - 生物画像解析
 - Fine-grained Image Classification
+- Image Harmonization
+- Neural Style Transfer
 - データ拡張
 - 遺伝子汚染
 - 動物形態分類学
